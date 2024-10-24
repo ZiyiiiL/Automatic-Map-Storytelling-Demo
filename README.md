@@ -1,4 +1,4 @@
-# An Efficient System for Automatic Map Storytelling – A Case Study on Historical Maps
+# An Efficient System for Automatic Map Storytelling – A Case Study on Historical Maps [Demo](https://ziyiiil.github.io/Automatic-Map-Storytelling-Demo/)
 
 [Main Project Repository](https://github.com/claudaff/automatic-map-storytelling)
 
